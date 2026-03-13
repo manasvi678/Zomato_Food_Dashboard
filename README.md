@@ -56,7 +56,8 @@ Dashboard automatically updates when new data is added to the cleaned dataset.
 1. Open `analysis.ipynb` in Jupyter Notebook or VS Code to explore data cleaning and EDA.  
 2. Open `dashboard/Zomato_Food_Delivery_Dashboard.pbix` in Power BI Desktop to explore the interactive dashboard.  
 3. To update visuals, replace or append new data in `clean_zomato_dataset.csv`; Power BI visuals will refresh automatically.  
-4. Use filters or slicers in Power BI to analyze specific cities, order types, or restaurants.  
+4. Use filters or slicers in Power BI to analyze specific cities, order types, or restaurants.
+  ![image alt](https://github.com/manasvi678/Zomato_Food_Dashboard/blob/main/Dashboard.png?raw=true )
 
 ---
 
