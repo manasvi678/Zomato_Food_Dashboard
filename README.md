@@ -70,5 +70,3 @@ Ideal for data analysts, small businesses, or teams looking to understand food d
 **Name:** D. Manasvi  
 **Email:** manasvi.datla@gmail.com  
 **LinkedIn:** [manasvi-datla](https://www.linkedin.com/in/manasvi-datla/)  
-
----x  
